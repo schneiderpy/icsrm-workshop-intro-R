@@ -7,9 +7,9 @@
 
 # International Career Service R Workshop
 
-Lessons for the “Introduction to R for Absolute Beginners” Workshop
-hosted by the International Career Service Rhein-Main (ICSRM) at the
-Goethe-University, Frankfurt a. M.
+Lessons for the “Introduction to R for Absolute Beginners”
+Future-Skills-Workshop hosted by the International Career Service
+Rhein-Main (ICSRM)
 
 This website will become the home of the workshop.
 
@@ -30,4 +30,4 @@ practical experience with R and RStudio.
 ### Funding support
 
 This work was supported in part by the International Career Service
-Rhein-Main at the Goethe-University Frankfurt, Frankfurt a.M., Germany
+Rhein-Main (ICSRM).
